@@ -1,4 +1,4 @@
-sec 86 -> lec 5 -> 10:20
+sec 88-> lec 7 -> 21:29
 
 ```
 npx sequelize db:create
